@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshit-eng&label=Profile%20views&color=0e75b6&style=flat" alt="lakshit-eng" /> </p>
 
-- 🔭 I’m currently Studyin Computer Science [E commerce Front End](https://lakshit-eng.github.io/EcomFrontEnd/)
+- 🔭 I’m currently Studyin Computer Science.
 
 - 🌱 I’m currently learning **spring boot,Data Structures and Algorithms**
 
