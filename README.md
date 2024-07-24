@@ -6,13 +6,11 @@
 
 - 🔭 I’m currently Studying Computer Science.
 
-- 🌱 I’m currently learning **spring boot,Data Structures and Algorithms**
-
-- 💬 Ask me about **Java Script**
+- 🌱 I’m currently learning **Java Script,Node js,Data Structures and Algorithms**
 
 - 📫 How to reach me **lakshitgupta199@gmail.com**
 
-- ⚡ More about me **I'm a Music Producer**
+- ⚡ More about me **I like creating new things with challenges**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
